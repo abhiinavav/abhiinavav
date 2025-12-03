@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**abhiinavav/abhiinavav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abhinav AV
 
-Here are some ideas to get you started:
+### Student Developer | Learning App Development & Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Abhinav — a student exploring programming and technology.  
+I am currently learning **C**, **Python**, **app development basics**, and **cybersecurity fundamentals**.
+
+---
+
+### 🔧 Skills
+- C  
+- Python  
+
+### 📘 Currently Learning
+- App development  
+- Cybersecurity  
+- Git & GitHub  
+- Linux basics  
+
+---
+
+### 📊 GitHub Stats
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiinavav&show_icons=true)
